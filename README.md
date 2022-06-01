@@ -10,4 +10,3 @@ https://www.kaggle.com/competitions/clouds-segmentation
 BaseLine을 수정하여 기한 내에 정확도를 올리는 것이 목표이다. 
 
 주어진 데이터 셋 외의 외부 데이터셋 사용은 불가능하다.
-
